@@ -10,6 +10,6 @@ When working on many simultaneous projects with Visual Studio Code (VS Code), it
 
 That's it! Now all you have to do is right clicking on a folder and choose the *Open in Visual Studio Code* service and your folder will open as a project in VS Code.
 
-![Open folder in Visual Studio Code as a service](http://hjerpbakk.com/img/open-in-vs-code/open-in-vs-code.jpg)
+![Open folder in Visual Studio Code as a service](http://hjerpbakk.com/img/open-in-vs-code.jpg)
 
 [Original blog post](http://hjerpbakk.com/blog/2017/01/29/open-folder-in-vs-code)
