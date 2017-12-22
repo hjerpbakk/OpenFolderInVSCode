@@ -10,18 +10,18 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ClWUUvMXh/qy9GKUwO277Hepvk4=
+			IFqM66U2eqWkWC3FuHfugwKh3Nk=
 			</data>
 			<key>hash2</key>
 			<data>
-			DS4kjnSfGQbFrUfyycBPe+VYCWUaevJjdjRUI84ryGw=
+			++/e5JW4cJLaPcJGZc1jDL0uF2zYlMqeKFq76jcPiHw=
 			</data>
 		</dict>
 		<key>document.wflow</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			i2V6md2osSQTxr5q9lUpfJ5LTNQ=
+			juAyWQLvv450Ge0bFrOPvD1Nfao=
 			</data>
 			<key>requirement</key>
 			<string>identifier document and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: Runar Ovesen Hjerpbakk (7W2E44BX24)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
