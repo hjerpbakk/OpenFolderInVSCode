@@ -1,4 +1,6 @@
-# OpenFolderInVSCode
+# Open a Folder in Visual Studio Code
+
+## The macOS service
 
 When working on many simultaneous projects with Visual Studio Code (VS Code), it is convenient having a fast way of opening the project folders. With the *open from the terminal* shell extension, and this service, your project folders can be opened from both the Terminal and the Finder.
 
@@ -13,3 +15,7 @@ That's it! Now all you have to do is right clicking on a folder and choose the *
 ![Open folder in Visual Studio Code as a service](http://hjerpbakk.com/img/open-in-vs-code.jpg)
 
 [Original blog post](http://hjerpbakk.com/blog/2017/01/29/open-folder-in-vs-code)
+
+## Changig the code
+
+If you want to edit your own version of this service, clone or download the repository and [follow these instructions](https://hjerpbakk.com/blog/2019/01/24/edit-an-automator-workflow).
