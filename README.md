@@ -1,11 +1,11 @@
 # Open a Folder in Visual Studio Code
 
-## The macOS service
+## Installing the macOS service
 
-When working on many simultaneous projects with Visual Studio Code (VS Code), it is convenient having a fast way of opening the project folders. With the *open from the terminal* shell extension, and this service, your project folders can be opened from both the Terminal and the Finder.
+When working on many simultaneous projects with Visual Studio Code (VS Code), it is convenient having a fast way of opening the project folders. With the *open from the terminal* shell extension, together this service, your project folders can be opened from both the Terminal and the Finder.
 
-1. Install the [Shell Command: Install 'code' command in PATH](https://code.visualstudio.com/docs/setup/mac) in VS Code.
-2. Download the Automator service from [this repository](https://github.com/Sankra/OpenFolderInVSCode). This is a macOS service which opens a given folder from the Finder in VS Code.
+1. Install the `code` shell command in Terminal's path using VS Code following these [simple instructions](https://code.visualstudio.com/docs/setup/mac).
+2. [Download](https://github.com/Sankra/OpenFolderInVSCode/releases/tag/v1.0) and extract this macOS service.
 3. Open the service and choose *Install*.
 
 ![Install the service from the Finder](http://hjerpbakk.com/img/open-in-vs-code/installation.jpg)
